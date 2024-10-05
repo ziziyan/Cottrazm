@@ -3,7 +3,7 @@
 # TumorST <- readr::read_rds("YourPath/TumorBoundary/1.BoundaryDefine/CRC1/TumorSTClustered.rds.gz")
 # Sample = "CRC1"
 # OutDir = "YourPath/TumorBoundary/Fig/1.BoundaryDefine/CRC1/"
-# TumorST <- STCNVScore(TumorST = TumorST,assay = "Spatial",OutDir = OutDir,Sample = Sample)
+# TumorST <- STCNVScore(TumorST = TumorST,assay = "patial",OutDir = OutDir,Sample = Sample)
 # MalLabel = c(1,2)
 
 #' Title Boundary define
